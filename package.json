@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "react-multi-carousel": "^2.8.4"
+  }
+}
